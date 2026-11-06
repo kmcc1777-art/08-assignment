@@ -1,0 +1,1 @@
+{"users": {"1": {"username": "ken", "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4", "level": 1, "xp": 0, "gold": 25, "hp": 30, "max_hp": 30, "inventory": ["Potion", "Potion"], "skills": ["Strike"], "map": "village", "position": [1, 4], "quest": {"main": 1, "herbs": false, "wolf": false}, "won": false}}}
